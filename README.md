@@ -57,7 +57,6 @@ Connect frontend (Task.tsx + Tasks.ts) to backend.
 Add UI for creating, updating, and listing tasks.
 
 📌 Notes
-Due to time constraints, I focused on:
 Setting up a working backend
 Ensuring the database is connected and schema created
 Preparing the frontend structure for integration
